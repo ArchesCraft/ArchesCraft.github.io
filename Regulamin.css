@@ -3,12 +3,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 50vw;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 276px auto 0;
+  margin: 292px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -17,7 +17,7 @@
   font-size: 1.125rem;
   letter-spacing: 1px;
   font-weight: 700;
-  margin: 29px auto 60px;
+  margin: 30px auto 60px;
 }
 
 @media (max-width: 1199px) {
