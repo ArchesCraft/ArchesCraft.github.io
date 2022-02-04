@@ -1,7 +1,7 @@
  .u-section-1 {
   background-image: url("images/2022-01-20_09.47.08.png");
   background-position: 50% 50%;
-  min-height: 711px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-text-1 {
@@ -93,7 +93,7 @@
 .u-section-1 .u-image-3 {
   width: 180px;
   height: 180px;
-  background-image: url("images/21.jpg");
+  background-image: url("images/klauduchaaaadministracja1.png");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -113,6 +113,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 711px;
+  }
+
   .u-section-1 .u-list-1 {
     width: 940px;
   }
