@@ -85,8 +85,7 @@
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: 20px;
-    margin-right: 0;
+    margin-top: 88px;
   }
 }
 
@@ -752,6 +751,23 @@
   .u-section-4 .u-btn-1 {
     transform: translateX(0px) translateY(-5px) scale(1);
     animation-duration: 1000ms;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-btn-1 {
+    margin-top: 124px;
+    margin-left: -24px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-btn-1 {
+    margin-top: 135px;
+    margin-left: -28px;
+    margin-right: -28px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
